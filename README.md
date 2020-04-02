@@ -57,9 +57,25 @@ Member of a four man team that used early web technologies to develop the first 
 * Developed a product for publishing companies where the could hold content for advertising flyers in an Oracle DB and using an ODBC connector for Quark we were able produce dynamic Quark documents. Tools used were Oracle's 7.3 DB, Application Server 2.0 (PL/SQL), and MC Research's Link-UP for QuarkXPress.
 
 
- 
- Skills
- -------
+IT Assistant, Video Update, Inc. (1995 to 1996)
+------------------------------------------------
+* Administered a 90+ node Novell and Windows NT Server/Workstation network
+* Administered RemoteWare XcelleNet server on an OS/2 platform
+* Administered Informix, Btrieve, MS Access databases
+* Supported client Windows, Unix, and MacOS machines
+* Supported client 10BaseT, 100BaseT, and 10Base2 networks
+* Provided internal and store technical support
+* Coordinated and developed new reporting and communication techniques for company senior officers
+* Helped coordinate the introduction of a new Windows NT network
+* Worked closely with many departments on hardware and software technical issues
+* Closely coordinated the new Warehouse Inventory / Store Accounting hardware and software
+* Managed the IS warehouse, which included: the coordination of new store computer equipment; working closely with equipment vendors; and the maintenance of in store POS computer equipment and software.
+* Managed retail store DOS, NetWare, and VideoTrace POS systems.
+* Developed an in-house inventory system for IS assets that was adapted for the video tape warehouse assets.
+
+
+Skills
+-------
 * Development technologies: C#, .NET Core and Full Framework, ASP.NET MVC, React.js, T-SQL, PL/pgSQL, PL/SQL, Redis, Swagger, Ocelot, IdentityServer, Hangfire, Docker, Azure Services (Event Grid, Service Bus, Search, Storage), and Azure DevOps Pipelines
 * IT technologies: Microsoft Window Server 2000 to 2019, Microsoft SQL Server 2000 to 2019, Microsoft Exchange Server 2000 to 2019, PostgreSQL, Forinet FortiGate, F5 Traffic Manager, Networking architecture, VMware ESX platform
 * Bright, ability to rapidly pick-up new technologies, propositions and business areas
