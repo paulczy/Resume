@@ -1,14 +1,13 @@
 ## Paul Czywczynski
 
 Proven CTO and Chief Architect: Azure, C#, .NET Core, Distributed Services, DevOps, Docker, Network Architecture 
- 
-+--------+----------------+----------+--------------------------------------+
+
+
+|        |                |          |                                      |
+| -------| -------------- | -------- | ------------------------------------ |
 | Phone  | ** redacted ** | LinkedIn | www.linkedin.com/in/paul-czywczynski |
-+--------+----------------+----------+--------------------------------------+
 | E-mail | ** redacted ** | Twitter  | https://twitter.com/paulczy          |
-+--------+----------------+----------+--------------------------------------+
 |        |                | GitHub   | https://github.com/paulczy           |
-+--------+----------------+----------+--------------------------------------+
 
 Summary
 --------
