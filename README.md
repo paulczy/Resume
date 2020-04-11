@@ -53,8 +53,6 @@ My eventual goal, to create the 3rd generation TempWorks technology stack - an A
 
 * Deployed redundant API Gateways and F5 Traffic Managers to distribute and manage API requests.
 
-* Deployed Azure Active Directory to facilitate SSO across the organization and integration with 3rd party vendors.
-
 Technologies: C#, ASP.NET Core MVC, SQL Server, Entity Framework Core, Dapper, REST, Microservices, React.js, JavaScript, Hangfire, Serilog, Seq, git, Azure App Services, Azure SQL Server, Azure Maps, Azure Storage, Azure Event Grid, Azure Functions, Azure Logic Apps, Docker, Amazon AWS
 
 ---
@@ -86,6 +84,8 @@ Technologies: C#, WPF, WCF, CSLA.NET, WinForms, SQL Server, ASP.NET MVC, ASP.NET
 * Managed and expanded TempWorks Hosting Services from three servers to a fully redundant Tier 3 data center hosting over 2500 unique monthly users over MS Remote Desktop Services.
 
 * Achieved 99% server virtualization using VMware ESX solutions resulting in over 1 million annual savings in hardware maintenance and infrastructure costs.
+
+* Deployed Azure Active Directory (AAD) to facilitate SSO across the organization and integration with 3rd party vendors.
 
 * Instituted IT monitoring and orchestration via PRTG, PowerShell, Bash, Pingdom, Ansible, Chef, Puppet
 
