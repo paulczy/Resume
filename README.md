@@ -32,7 +32,7 @@ I managed a small team of software developers creating the next generation of re
 
 * Created End-to-End Diagnostic and Tracing infrastructure to help diagnose errors and performance issues in distributed microservices systems.
 
-Technologies: C#, ASP.NET Core MVC, SQL Server, Entity Framework Core, Dapper, REST, Microservices, RabbitMQ, React.js, JavaScript, Hangfire, Serilog, Seq, git, Azure App Services, Azure Search, Azure Maps, Azure Storage, Azure Event Grid, Azure Service Bus
+Technologies: C#, ASP.NET Core MVC, SQL Server, Entity Framework Core, Dapper, REST, Microservices, RabbitMQ, React.js, TypeScript, JavaScript, Hangfire, Serilog, Seq, git, Azure App Services, Azure Search, Azure Maps, Azure Storage, Azure Event Grid, Azure Service Bus
 
  
 CTO - Chief Architect, TempWorks Software (2001-2019)
@@ -175,12 +175,13 @@ Skills
 | TSQL / pgSQL / PL/SQL        | Windows Forms  | Dependency Injection | IIS                                       |
 | Redis                        | Silverlight    | TDD                  | express                                   |
 | Azure Service Bus / RabbitMQ |                | SOLID                | Windows Server                            |
-| node.js                      |                |                      | SQL Server                                |
-| OData / GraphQL              |                |                      | MS Exchange                               |
-| Swagger / OpenAPI            |                |                      | VMware ESX                                |
-| API Gateway                  |                |                      | Citrix                                    |
-| Docker / Kubernetes          |                |                      | Fortinet FortiGate                        |
-| Azure                        |                |                      | F5 Traffic Manager                        |
+| TypeScript / JavaScript      |                |                      | SQL Server                                |
+| node.js                      |                |                      | MS Exchange                               |
+| OData / GraphQL              |                |                      | VMware ESX                                |
+| Swagger / OpenAPI            |                |                      | Citrix                                    |
+| API Gateway                  |                |                      | Fortinet FortiGate                        |
+| Docker / Kubernetes          |                |                      | F5 Traffic Manager                        |
+| Azure                        |                |                      |                                           |
 | AWS                          |                |                      |                                           |
 | Google Cloud                 |                |                      |                                           |
 
